@@ -1,15 +1,8 @@
 # OpenCV python 计算机视觉
 
-![]()
+![](https://github.com/delehub/Python-OpenCV/blob/master/python/OPENCV.png?raw=true)
 
 > 教程地址：[codec.wang](http://codec.wang)
-
-
-## OpenCV-Python图像处理教程（源码及素材）
-
-![](http://blog.codec.wang/cv2_python_opencv_cover_gif2.gif)
-
-p.s. 各目录下的README均为教程内容，但Github不支持公式的显示，所以推荐下方的博客链接。
 
 ---
 
